@@ -1,0 +1,21 @@
+.img{
+  height:226px;
+  width:218px;
+}
+.hay{
+  border: 4px solid black;
+    border-radius: 5px;
+    position: relative;
+    background-color: #808080b5;
+    margin: 30px;
+    color: yellow;
+}
+
+.tipos{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+
+

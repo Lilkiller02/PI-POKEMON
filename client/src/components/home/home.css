@@ -1,0 +1,19 @@
+.cards{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    
+}
+
+.filtros{
+    background-color: rgba(0, 0, 0, 0.403);
+    color:white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.select{
+    background: black;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 22px;
+}
